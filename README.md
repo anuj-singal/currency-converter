@@ -5,6 +5,7 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ---
 
 ## 🚀 Features
+
 - Convert between multiple currencies in real-time.
 - Swap currencies instantly with one click.
 - Custom React hook for fetching currency rates (`useCurrencyInfo`).
@@ -14,6 +15,7 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ---
 
 ## 🛠 Tech Stack
+
 - **React (Vite)** – Frontend framework.
 - **Tailwind CSS** – Styling.
 - **Custom Hooks** – For currency data fetching.
@@ -39,6 +41,7 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ---
 
 ## 🎯 Usage
+
 1. Select the currency to convert from.
 2. Enter the amount.
 3. Select the currency to convert to.
@@ -56,9 +59,14 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ---
 
 ## 👨‍💻 Author
-**Name:** Anuj Singal  
-**GitHub:** https://github.com/anuj-singal
+
+[![Anuj Singal](https://img.shields.io/badge/Anuj%20Singal-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuj-singal)
+
+---
 
 ## 📜 License & Copyright
+
 This project is licensed under the terms of the **MIT License**.  
 © 2025 Anuj Singal. All rights reserved.
+
+---
