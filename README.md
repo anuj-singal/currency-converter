@@ -58,3 +58,7 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ## 👨‍💻 Author
 **Name:** Anuj Singal  
 **GitHub:** https://github.com/anuj-singal
+
+## 📜 License & Copyright
+This project is licensed under the terms of the **MIT License**.  
+© 2025 Anuj Singal. All rights reserved.
