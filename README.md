@@ -26,18 +26,22 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 ## 📦 Installation
 
 1. Clone the repository
+   ```bash
    git clone https://github.com/your-username/currency-converter.git
    cd currency-converter
-
+   ```
 2. Install dependencies
+   ```bash
    npm install
-
+   ```
 3. Run the development server
+   ```bash
    npm run dev
-
+   ```
 4. Open in browser
+   ```bash
    Visit: http://localhost:5173 (or the port shown in terminal)
-
+   ```
 ---
 
 ## 🎯 Usage
