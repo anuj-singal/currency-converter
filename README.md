@@ -27,7 +27,7 @@ A simple and responsive currency converter built with **React + Vite**, using a 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/anuj-singal/currency-converter.git
    cd currency-converter
    ```
 2. Install dependencies
